@@ -60,7 +60,7 @@ The toolkit generates an Excel file containing:
 3. Place your `.ttl` files in the appropriate folder and run the script.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvement, please open an issue or submit a pull request.
